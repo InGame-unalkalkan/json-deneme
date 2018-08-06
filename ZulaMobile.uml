@@ -47,6 +47,10 @@ CardView is </XPD:ATTR>
 <XPD:ATTR name="Name" type="string">Operation4</XPD:ATTR>
 <XPD:REF name="Owner">319bFCgj60awGrJrSjbAhgAA</XPD:REF>
 </XPD:OBJ>
+<XPD:OBJ name="Operations[3]" type="UMLOperation" guid="KRzbpaiJXE+G/3yVC9/Z3gAA">
+<XPD:ATTR name="Name" type="string">Operation3</XPD:ATTR>
+<XPD:REF name="Owner">319bFCgj60awGrJrSjbAhgAA</XPD:REF>
+</XPD:OBJ>
 <XPD:ATTR name="#Attributes" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="7dTxnm31IUO2zK3ssdr7kwAA">
 <XPD:ATTR name="Name" type="string">Attribute1</XPD:ATTR>
@@ -139,7 +143,7 @@ CardView is </XPD:ATTR>
 <XPD:OBJ name="OwnedViews[0]" type="UMLClassView" guid="aJm8ensJPUGq3TvkmCd45wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">136</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">132</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">116</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">176</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">144</XPD:ATTR>

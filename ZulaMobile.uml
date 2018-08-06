@@ -43,21 +43,21 @@ CardView is </XPD:ATTR>
 <XPD:ATTR name="Name" type="string">Operation2</XPD:ATTR>
 <XPD:REF name="Owner">319bFCgj60awGrJrSjbAhgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Operations[3]" type="UMLOperation" guid="6DDmU5JcR02QfVRYX7u2CwAA">
-<XPD:ATTR name="Name" type="string">Operation4</XPD:ATTR>
-<XPD:REF name="Owner">319bFCgj60awGrJrSjbAhgAA</XPD:REF>
-</XPD:OBJ>
 <XPD:OBJ name="Operations[3]" type="UMLOperation" guid="KRzbpaiJXE+G/3yVC9/Z3gAA">
 <XPD:ATTR name="Name" type="string">Operation3</XPD:ATTR>
 <XPD:REF name="Owner">319bFCgj60awGrJrSjbAhgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:ATTR name="#Attributes" type="integer">2</XPD:ATTR>
+<XPD:ATTR name="#Attributes" type="integer">3</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="7dTxnm31IUO2zK3ssdr7kwAA">
 <XPD:ATTR name="Name" type="string">Attribute1</XPD:ATTR>
 <XPD:REF name="Owner">319bFCgj60awGrJrSjbAhgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="WdjA8/WHTkWT1eI3Tl/9YAAA">
 <XPD:ATTR name="Name" type="string">Attribute2</XPD:ATTR>
+<XPD:REF name="Owner">319bFCgj60awGrJrSjbAhgAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="1wvJ3ReZdEKZ2rRULmpLzwAA">
+<XPD:ATTR name="Name" type="string">Attribute3</XPD:ATTR>
 <XPD:REF name="Owner">319bFCgj60awGrJrSjbAhgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
